@@ -28,7 +28,7 @@
   <repositories>
     <repository>
        <id>maven-group</id>
-        <url>http://localhost:8081/repository/shivasree/</url>
+        <url>http://localhost:8081/repository/demo-maven/</url>
 	    <releases><enabled>true</enabled></releases>
        <snapshots><enabled>true</enabled></snapshots>
     </repository>
